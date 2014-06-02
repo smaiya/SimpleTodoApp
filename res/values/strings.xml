@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">TodoApp</string>
+    <string name="edit_app_name">Edit item</string>
+    <string name="prompt_text">Enter new item</string>
+    <string name="add_button_label">Add</string>
+    <string name="title_activity_edit_item">EditItemActivity</string>
+    <string name="edit_title">Edit item below:</string>
+    <string name="save_button_label">Save</string>
+    <string name="action_settings">Settings</string>
+
+</resources>
